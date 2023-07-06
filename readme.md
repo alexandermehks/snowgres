@@ -19,3 +19,4 @@ The program takes JSON data as input which looks like this:
     "days_back": "5"
 }
 ```
+Currently the input are fetched from the postgres database that data should be written to, even tho any input would be valid as long as it is valid json.
