@@ -1,6 +1,6 @@
 ## Dynamic integration from snowflake to postgres
 
-Importing data from snowflake and inserting it into local postgres database. This code is used in production codebases but it was written under 2 days since a problem came up that needed to be solved quickly.
+Importing data from snowflake and inserting it into local postgres database. This code is used in production codebases but it was written under 2 days since a problem came up that needed to be solved quickly. It works as it should, but could need some refactoring.
 
 ## JSON as input
 The program takes JSON data as input which looks like this: 
