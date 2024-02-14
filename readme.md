@@ -1,6 +1,6 @@
 ## Dynamic integration from snowflake to postgres
 
-Importing data from snowflake and inserting it into postgres database. It was written under 2 days as a POC. It works as it should, but could need some refactoring.
+Importing data from snowflake and inserting it into postgres database. It was written under 2 days as a POC. Could need some refactoring.
 
 ## JSON as input
 The program takes JSON data as input which looks like this: 
